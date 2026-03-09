@@ -71,3 +71,16 @@ Fraud Score =
 (w4 × Historical Behavior Risk)
 
 If the fraud score exceeds a predefined threshold, the payout may be flagged for verification or temporarily blocked.
+## Business Viability of Weekly Insurance Model
+
+The weekly parametric insurance model is designed to match the income cycle of gig workers such as food delivery riders.
+
+Since delivery workers earn income daily and plan expenses weekly, a small weekly premium makes insurance affordable and accessible.
+
+The system maintains sustainability through:
+
+• Affordable weekly premiums  
+• Controlled maximum payout limits  
+• Automated parametric triggers based on environmental data  
+
+This model ensures that gig workers receive fast income protection during disruption events while maintaining financial stability for the platform.
