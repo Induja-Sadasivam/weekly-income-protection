@@ -84,3 +84,12 @@ The system maintains sustainability through:
 • Automated parametric triggers based on environmental data  
 
 This model ensures that gig workers receive fast income protection during disruption events while maintaining financial stability for the platform.
+## Automated Claim Process
+
+The system automatically detects disruption events using a scheduler-based monitoring engine.
+
+Environmental data is continuously retrieved from weather APIs and processed by the AI risk scoring model.
+
+When the calculated risk score exceeds predefined thresholds, the parametric trigger engine automatically activates the payout process.
+
+The payment system then transfers compensation to affected delivery workers and sends real-time notifications through the platform.
