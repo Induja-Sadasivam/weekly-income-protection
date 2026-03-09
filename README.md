@@ -56,3 +56,18 @@ Low Risk → Normal operations
 Moderate Risk → Possible disruption  
 High Risk → Significant disruption  
 Critical Risk → Automatic payout triggered
+## Fraud Detection and Prevention
+
+Since the system provides automated payouts, fraud prevention is essential.
+
+The platform analyzes worker activity, GPS location, device usage, and historical behavior to detect suspicious patterns.
+
+A fraud risk score is calculated for each worker during disruption events.
+
+Fraud Score = 
+(w1 × Activity Consistency Risk) +
+(w2 × Location Authenticity Risk) +
+(w3 × Device Integrity Risk) +
+(w4 × Historical Behavior Risk)
+
+If the fraud score exceeds a predefined threshold, the payout may be flagged for verification or temporarily blocked.
