@@ -90,3 +90,19 @@ Environmental data is continuously retrieved from weather APIs and processed by 
 When the calculated risk score exceeds predefined thresholds, the parametric trigger engine automatically activates the payout process.
 
 The payment system then transfers compensation to affected delivery workers and sends real-time notifications through the platform.
+## Dashboard Systems
+
+### Admin Dashboard
+
+The admin dashboard provides system administrators with operational visibility into platform activity, environmental disruptions, payout activity, fraud detection, and financial sustainability.
+
+See diagram in /diagrams folder:
+- Admin Dashboard Flow
+
+
+### Worker Dashboard
+
+The worker dashboard provides delivery riders with clear visibility into their insurance coverage, disruption risk levels, potential payouts, and disruption alerts.
+
+See diagram in /diagrams folder:
+- Worker Dashboard Flow
